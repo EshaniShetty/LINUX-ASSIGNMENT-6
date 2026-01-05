@@ -4,7 +4,7 @@ Linux Programming Assignment 6: Advanced directory management, hidden file handl
 Overview
 This repository focuses on practical directory operations, file attribute analysis, and the construction of advanced command pipelines for system administration.
 
-🛠️ Topics & Commands Covered
+Topics & Commands Covered
 1. Directory Operations
 ls (List): Comprehensive use of the list command to view directory contents.
 
